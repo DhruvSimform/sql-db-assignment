@@ -27,7 +27,7 @@ or Live Preview
    - DateOfJoining
    - Salary
 
-## SQL QUERY
+## SETUP DATABASE WITH TABLE & DATA
 1. **Create Database**
    ```sql
    CREATE DATABASE EMPLOYEE;
