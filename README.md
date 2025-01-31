@@ -1,6 +1,6 @@
 # SQL Database Assignment
 
-This project involves creating and managing an `EMPLOYEE` database with two tables: `EmployeeInfo` and `EmployeePosition`. It includes database creation, table creation, data insertion, and executing various SQL queries.
+This Task involves creating and managing an `EMPLOYEE` database with two tables: `EmployeeInfo` and `EmployeePosition`. It includes database creation, table creation, data insertion, and executing various SQL queries.
 
 ## 📄 Documentation or 📌 Live Preview of file
 For a detailed explanation, refer to the attached [SQL_DB_Task.odt](SQL_DB_Task.odt) file. 
@@ -27,7 +27,7 @@ or Live Preview
    - DateOfJoining
    - Salary
 
-## 🔧 Setup Instructions
+## SQL QUERY
 1. **Create Database**
    ```sql
    CREATE DATABASE EMPLOYEE;
