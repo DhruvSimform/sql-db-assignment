@@ -2,11 +2,12 @@
 
 This project involves creating and managing an `EMPLOYEE` database with two tables: `EmployeeInfo` and `EmployeePosition`. It includes database creation, table creation, data insertion, and executing various SQL queries.
 
-## 📄 Documentation
-For a detailed explanation, refer to the attached [SQL_DB_Task.odt](SQL_DB_Task.odt) file.
-
-## 📌 Live Preview
+## 📄 Documentation or 📌 Live Preview of file
+For a detailed explanation, refer to the attached [SQL_DB_Task.odt](SQL_DB_Task.odt) file. 
+or Live Preview 
 🔗 [Project URL](https://dhruvsimform.github.io/sql-db-assignment/)
+ 
+
 
 ## 🏗 Database Structure
 ### Tables:
